@@ -1,0 +1,83 @@
+sidebar:
+    position: left
+    about: False
+    education: False
+    skills: True
+    name: Doan Vu Quang Phu
+    tagline: Intern Web Developer
+    avatar: Anhthe.jpg
+    email: doanvuquangphu2112
+    phone: 0936298014
+    github: ppppHHHuuuu
+    linkedin: doanvuquangphu
+
+experiences:
+  title: Experiences
+  info:
+    - role: Back-end Developer
+      time: June 2023 – Present
+      company: Intelligent Software Engineering
+      details: |
+        As a member of a team of three, with the guidance of MSc Tran Manh Cuong, I worked as a back-end developer to build a web application integrating open-source tools named Slither and Mythril. The goal was to enhance the detection of vulnerabilities in Smart Contracts.
+
+languages:
+  title: Languages
+  info:
+    - idiom: Vietnamese
+      level: Native
+
+    - idiom: English
+      level: Intermediate  
+
+interests:
+  title: Activities
+  info:
+    - item: Library of Student Association
+
+career-profile:
+  title: Career Profile
+  summary: |
+    A fresher computer science student who is interested in Blockchain Smart Contracts and software architecture design. I believe by bringing my best effort and ability to contribute to a company can help me improve not only technical skills in web development but also communication and time management. I expect to have a chance to work in web development in the near future to develop this must-have skill.
+education:
+  title: Education
+  info:
+    - degree: BSc in Computer Science
+      university: University of Engineering and Technology - Vietnam National University
+      time: May 2025
+      details: |
+        I have learnt basic IT knowledge at the university, including Data Structure and Algorithm, OOP, enrolled in Testing class, Mobile Development class and so on. 
+        I perceive the university as a chance to work with dedicated teachers and to find the suitable path for my career. 
+  gpa: GPA - 3.31
+
+projects:
+    title: Projects
+    assignments:
+      - title: Hotel Booking Application
+        # link: "#hook"
+        tagline: "As a team leader, i led a group of five to develop a functional mobile application for booking hotels. Throughout the project, I developed team schedule, including quality measurement for each weekly milestone. Utilizing Java Android Studio, I direct the design and implementation of the front-end components. Performed unit and UI testing for API testing and user interface using JUnit and Espresso framework."
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Flask
+        level: 60%
+
+      - name: Javascript 
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Git
+        level: 80%
+
+      - name: Solidity
+        level: 50%
+
+      - name: Android Development
+        level: 60%
+certifications:
+      title: Certifications
+      list:
+          - name: IELTS
+            details: 6.5 
