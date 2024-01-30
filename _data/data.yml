@@ -5,7 +5,7 @@ sidebar:
     skills: True
     name: Doan Vu Quang Phu
     tagline: Intern Web Developer
-    avatar: Anhthe.jpg
+    avatar: download.png
     email: doanvuquangphu2112
     phone: 0936298014
     github: ppppHHHuuuu
@@ -47,7 +47,7 @@ education:
       details: |
         I have learnt basic IT knowledge at the university, including Data Structure and Algorithm, OOP, enrolled in Testing class, Mobile Development class and so on. 
         I perceive the university as a chance to work with dedicated teachers and to find the suitable path for my career. 
-  gpa: GPA - 3.31
+  gpa: GPA - 3.32
 
 projects:
     title: Projects
