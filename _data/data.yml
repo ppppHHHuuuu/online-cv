@@ -6,7 +6,8 @@ sidebar:
     name: Doan Vu Quang Phu
     tagline: Intern Web Developer
     avatar: download.png
-    email: doanvuquangphu2112
+    email: 21020658@vnu.edu.vn
+    birthday: 21/12/2003
     phone: 0936298014
     github: ppppHHHuuuu
     linkedin: doanvuquangphu
@@ -60,22 +61,22 @@ skills:
 
     toolset:
       - name: Python & Flask
-        level: 60%
+        level: 40%
 
       - name: Javascript 
-        level: 70%
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 90%
-
-      - name: Git
-        level: 80%
-
-      - name: Solidity
         level: 50%
 
+      - name: Git
+        level: 70%
+
+      - name: Solidity
+        level: 30%
+
       - name: Android Development
-        level: 60%
+        level: 70%
 certifications:
       title: Certifications
       list:

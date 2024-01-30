@@ -1,5 +1,10 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
+    {% if sidebar.birthday %}
+    <li class="phone"><i class="fas fa-birthday-cake"></i>
+      <p style="display: inline-block; padding-left: 2px; margin-bottom: 0px">{{ sidebar.birthday }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
