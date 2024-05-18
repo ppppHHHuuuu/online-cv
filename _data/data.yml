@@ -39,18 +39,16 @@ interests:
 career-profile:
   title: Career Profile
   summary: |
-    A fresher computer science student with a keen interest in Finance and securing Blockchain Smart Contracts. 
-    I am committed to bringing my best effort and dedication to not only improve my technical skills but also my communication and time management abilities. 
-    I am eager to explore the intersection of Blockchain and Finance, and I look forward to opportunities that allow me to delve deeper into these fields.
+    Highly motivated Computer Science student with experience in securing Blockchain Smart Contracts. 
+    Possesses to leverage technical skills and a commitment to learning to innovative projects at the intersection of blockchain and finance.
+
 education:
   title: Education
   info:
     - degree: BSc in Computer Science
       university: University of Engineering and Technology - Vietnam National University
       time: May 2025
-      details: |
-        I have learnt basic IT knowledge at the university, including Data Structure and Algorithm, OOP, enrolled in Visual Data Analytics class, Testing class, Mobile Development class and so on. 
-        I perceive the university as a chance to work with dedicated teachers and to find the suitable path for my career. 
+      details: My university experience has been a springboard for developing core IT concepts. It's classes like Deep Learing, Visual Data Analytics, Software Architecture that have truly sparked my passion. These courses have fostered my understanding of AI principles, microservice architectures, and the importance of visualization. They've also equipped me with leadership mindset, critical thinking skills that I believe will be invaluable throughout my career.
   gpa: GPA - 3.33
 
 projects:
@@ -58,7 +56,7 @@ projects:
     assignments:
       - title: Hotel Booking Application
         # link: "#hook"
-        tagline: "As a team leader, i led a group of five to develop a functional mobile application for booking hotels. Throughout the project, I developed team schedule, including quality measurement for each weekly milestone. Utilizing Java Android Studio, I direct the design and implementation of the front-end components. Performed unit and UI testing for API testing and user interface using JUnit and Espresso framework."
+        tagline: As a team leader, I led a group of five to develop a functional mobile application for hotel booking. Throughout the project, I developed team schedule, including quality measurement for each weekly milestone. With utilizing Java Android Studio, I directed the design and implementation of the front-end components. Performed unit and UI testing for API testing and user interface using JUnit and Espresso framework.
 skills:
     title: Skills &amp; Proficiency
 
