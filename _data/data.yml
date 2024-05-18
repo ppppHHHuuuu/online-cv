@@ -4,9 +4,9 @@ sidebar:
     education: False
     skills: True
     name: Doan Vu Quang Phu
-    tagline: Intern Web Developer
+    tagline: Intern Blockchain Developer
     avatar: download.png
-    email: 21020658@vnu.edu.vn
+    email: doanvuquangphuforwork@gmail.com
     birthday: 21/12/2003
     phone: 0936298014
     github: ppppHHHuuuu
@@ -16,17 +16,18 @@ experiences:
   title: Experiences
   info:
     - role: Back-end Developer
-      time: June 2023 – Present
-      company: Intelligent Software Engineering
+      time: June 2023 – January 2024
+      company: Intelligent Software Engineering Laboratory
       details: |
-        As a member of a team of three, with the guidance of MSc Tran Manh Cuong, I worked as a back-end developer to build a web application integrating open-source tools named Slither and Mythril. The goal was to enhance the detection of vulnerabilities in Smart Contracts.
-
+        As a member of a team of three, I worked as a back-end developer to build a web application integrating open-source tools named Slither and Mythril. The goal was to enhance the detection of vulnerabilities in Smart Contracts.
+    - role: Researcher
+      time: January 2024 – Present
+      company: Intelligent Software Engineering Laboratory
+      details: |
+        I am currently working on a research project to develop a new automated tool for detecting vulnerabilities in Smart Contracts. The project is expected to be completed by the end of the year.
 languages:
   title: Languages
   info:
-    - idiom: Vietnamese
-      level: Native
-
     - idiom: English
       level: Intermediate  
 
@@ -38,7 +39,9 @@ interests:
 career-profile:
   title: Career Profile
   summary: |
-    A fresher computer science student who is interested in Blockchain Smart Contracts and software architecture design. I believe by bringing my best effort and ability to contribute to a company can help me improve not only technical skills in web development but also communication and time management. I expect to have a chance to work in web development in the near future to develop this must-have skill.
+    A fresher computer science student with a keen interest in Finance and securing Blockchain Smart Contracts. 
+    I am committed to bringing my best effort and dedication to not only improve my technical skills but also my communication and time management abilities. 
+    I am eager to explore the intersection of Blockchain and Finance, and I look forward to opportunities that allow me to delve deeper into these fields.
 education:
   title: Education
   info:
@@ -46,9 +49,9 @@ education:
       university: University of Engineering and Technology - Vietnam National University
       time: May 2025
       details: |
-        I have learnt basic IT knowledge at the university, including Data Structure and Algorithm, OOP, enrolled in Testing class, Mobile Development class and so on. 
+        I have learnt basic IT knowledge at the university, including Data Structure and Algorithm, OOP, enrolled in Visual Data Analytics class, Testing class, Mobile Development class and so on. 
         I perceive the university as a chance to work with dedicated teachers and to find the suitable path for my career. 
-  gpa: GPA - 3.32
+  gpa: GPA - 3.33
 
 projects:
     title: Projects
